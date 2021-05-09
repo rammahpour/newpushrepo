@@ -9,7 +9,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { CreateComponent } from './components/create/create.component';
 import { IndexComponent } from './components/index/index.component';
 import { ReactiveFormsModule } from '@angular/forms';
-import { UserState } from './state/user.action';
+import { UserState } from './state/user.state';
 // import { StoreDevtoolsModule } from '@ngrx/store-devtools';
 // import { environment } from 'src/environments/environment';
 import { environment } from '../environments/environment';
